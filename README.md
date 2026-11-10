@@ -1,5 +1,7 @@
 # Bank Mobile App (Bank EC)
 
+> 👨‍💻 Developed by **[Suresh Kumar Meesala](https://github.com/SureshKumarMeesala)** · 🎨 UI design by **Gokul** (credits below)
+
 A mobile banking application for personal finance management, peer transfers, Platinum Card controls, and category budgeting. Built strictly with **pure JavaScript & JSX (`.js`, `.jsx`)**, React Native 0.88, Expo SDK 58, and Expo Router, based on the 27 Figma artboards from `bank-mobile-app-template-gokul`.
 
 ---
@@ -68,6 +70,21 @@ npx expo start
 Then press `i` for the iOS simulator, `a` for Android, or `w` for the web, or scan the QR code with Expo Go.
 
 <!-- run-locally:end -->
+
+<!-- developer:start -->
+
+## 👨‍💻 Developer
+
+This React Native app was developed by **Suresh Kumar Meesala**.
+
+| | |
+|---|---|
+| Developer | [Suresh Kumar Meesala](https://github.com/SureshKumarMeesala) |
+| GitHub | [@SureshKumarMeesala](https://github.com/SureshKumarMeesala) |
+| Organization | [FreeAppSource](https://github.com/FreeAppSource) |
+| Repository | <https://github.com/FreeAppSource/bank-mobile-app> |
+
+<!-- developer:end -->
 
 ---
 
