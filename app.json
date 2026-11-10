@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Bank Mobile App",
+    "slug": "bank-mobile-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#7165E3"
+      }
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "scheme": "bankapp"
+  }
+}
